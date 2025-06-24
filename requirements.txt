@@ -1,1 +1,9 @@
+matplotlib>=3.0.0
 streamlit
+yfinance
+ta
+tensorflow
+seaborn
+pandas
+numpy
+scikit-learn>=1.0.0
